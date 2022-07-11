@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaveenaBora
-- 👀 I’m interested in .python and javascripe..
+- 👀 I’m interested in .python and JavaScript..
 - 🌱 I’m currently learning .python ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
